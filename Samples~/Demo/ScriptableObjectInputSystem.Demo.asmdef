@@ -1,0 +1,19 @@
+{
+    "name": "ScriptableObjectInputSystem.Demo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75e5505026552b643ae3738bd956b927",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:5808a692bba78974081a0358f76ae632"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+  "name": "com.legeodo.scriptableobjectinputsystem",
+  "version": "1.0.0",
+  "displayName": "Scriptable Object Input System",
+  "dependencies": {},
+  "author": {
+    "name": "Legeodo"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Legerdo/ScriptableObjectInputSystem.git",
+    "revision": "main"
+  },
+  "samples":
+  [
+      {
+          "displayName": "Demo",
+          "path": "Samples~/Demo"
+      }
+  ]    
+}
